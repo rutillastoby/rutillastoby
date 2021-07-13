@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/RHJ4BR2/banner-rutillastoby.png" alt="banner-rutillastoby" border="0" width="100%">
+<img src="./rutillastoby-banner.gif" alt="banner-rutillastoby" border="0" width="100%">
 
 <!--
 **rutillastoby/rutillastoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
